@@ -1,0 +1,23 @@
+{
+    "name": "redis-based-rate-limiter",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {},
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/IsenTang/Redis-based-Rate-limiter.git"
+    },
+    "author": "isen",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/IsenTang/Redis-based-Rate-limiter/issues"
+    },
+    "homepage": "https://github.com/IsenTang/Redis-based-Rate-limiter#readme",
+    "dependencies": {
+        "config": "^1.28.0",
+        "ioredis": "^3.2.1",
+        "lodash": "^4.17.4",
+        "randomatic": "^2.0.0"
+    }
+}
